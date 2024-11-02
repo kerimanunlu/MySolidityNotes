@@ -1,4 +1,4 @@
-![MasterHead](https://strapi-uploads.rumblefish.dev/1615384236776_75530f1ed4.png?fm=jpg&q=70&h=612&fit=pad)
+
 # 🌟 Solidity Examples Repository 🌟
 
 Bu repo, **Solidity** programlama dilinde çeşitli örnekleri içermektedir. Her dosya, Solidity'nin farklı yönlerini ve kullanım örneklerini sergilemektedir. Proje, Solidity ile akıllı sözleşmeler geliştirmek isteyenler için bir kaynak olarak tasarlanmıştır.
